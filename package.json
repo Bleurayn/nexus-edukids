@@ -1,0 +1,47 @@
+{
+  "name": "nexus-edukids",
+  "version": "1.0.0",
+  "description": "AI studio that generates Netflix-quality educational videos for kids in under 15 minutes • Patent-pending BLEU stack • Raising $5M seed",
+  "private": true,
+  "keywords": [
+    "edtech",
+    "education",
+    "ai",
+    "generative-ai",
+    "children",
+    "coppa",
+    "react",
+    "tailwindcss",
+    "seed-round"
+  ],
+  "author": "NEXUS EduKids <founder@nexus-edukids.com>",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/nexus-edukids.git"
+  },
+  "homepage": "https://nexus-edukids.vercel.app",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint src --ext .js,.jsx,.ts,.tsx",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "lucide-react": "^0.447.0",
+    "canvas-confetti": "^1.9.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.35.0",
+    "postcss": "^8.4.47",
+    "prettier": "^3.3.3",
+    "tailwindcss": "^3.4.13",
+    "vite": "^5.4.8"
+  }
+}
