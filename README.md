@@ -38,6 +38,6 @@ Live demo runs 100% client-side • COPPA-ready architecture • Production-grad
 Built with fiduciary duty • Ready for immediate pilot partnerships
 
 **Founder:** Cassandra Harrison  
-**Email:** cassandra@nexus-edukids.com (or reply to Calendly confirmation)
+**Email:** charrison@avableudesigns.com (or reply to Calendly confirmation)
 
 ---
