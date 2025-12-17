@@ -8,8 +8,7 @@ AI studio that generates Netflix-quality educational videos for kids in &lt;15 m
   <br/><br/>
 
   <a href="https://nexus-edukids.vercel.app">
-    <strong>🚀 Live Prototype</strong>
-  </a>
+  
   <span> • </span>
   <a href="https://calendly.com/cassandrahrrsn9/30min">
     <strong>📅 Book 30-min Investor Call</strong>
